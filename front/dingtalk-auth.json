@@ -1,0 +1,9 @@
+{
+    "name": "DingTalk Auth",
+    "slug": "dingtalk-auth",
+    "description": "Authenticate with DingTalk accounts.",
+    "type": "auth",
+    "module": "taigaContrib.dingtalkAuth",
+    "template": "/plugins/dingtalk-auth/dingtalk-auth.html",
+    "js": "/plugins/dingtalk-auth/dingtalk-auth.js"
+}
